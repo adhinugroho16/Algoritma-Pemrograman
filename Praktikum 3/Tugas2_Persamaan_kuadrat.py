@@ -30,7 +30,7 @@ elif(nd>0):
 elif(nd<0):
     print("persamaan kuadrat dari",a ,"x^2 +",b ,"x +",c )
     print("determinan dari =",nd)
-    print("termasuk akar kembar")
+    print("termasuk akar intejer")
     print(-b,"+akar",nd )
     print(-b,"-akar",nd )   
 print("Terima Kasih")
