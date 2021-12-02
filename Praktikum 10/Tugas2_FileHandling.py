@@ -23,7 +23,7 @@ def nambah(data):
 a = True
 while(a == True):
     print("===== program file handling =====")
-    print("1. Membaca dan menulis file")
+    print("1. Membuat dan menulis file")
     print("2. Membaca File")
     print("3. Menambahkan Text pada file")
     print("4. Keluar dari program")
